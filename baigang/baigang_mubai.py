@@ -14,8 +14,8 @@ def  baigang2():
 
 
 def  baigang5():
-    print("这个方法有点叼")
+    print("这个方法有点叼----简直屌炸了————————")
 def  baigang6():
     print("这个方法有点叼")
 if __name__ == '__main__':
-        baigang6()
+        baigang5()
