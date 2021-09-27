@@ -15,3 +15,5 @@ def  baigang2():
 
 def  baigang5():
     print("这个方法有点叼")
+def  baigang6():
+    print("这个方法有点叼")
