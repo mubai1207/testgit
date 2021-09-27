@@ -17,5 +17,5 @@ def  baigang5():
     print("这个方法有点叼")
 def  baigang6():
     print("这个方法有点叼")
-    if __name__ == '__main__':
+if __name__ == '__main__':
         baigang6()
